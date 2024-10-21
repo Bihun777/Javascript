@@ -1,8 +1,8 @@
-// alert("안녕하십니까")
-// confirm("안은 생각보다 깨끗한데?")
-// prompt("이름 딱대")
-// prompt("이름 딱대", "주석철")
-// document.write("<h1>안녕하십니까</h1>")
+alert("안녕하십니까")
+confirm("안은 생각보다 깨끗한데?")
+prompt("이름 딱대")
+prompt("이름 딱대", "주석철")
+document.write("<h1>안녕하십니까</h1>")
 
 
 var currentYear = 2024;
